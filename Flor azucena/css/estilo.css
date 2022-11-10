@@ -1,0 +1,59 @@
+body{
+    background-image: url(/img/descarga.jpg);
+    background-size: cover;
+}
+nav{
+    color: black;
+}
+h1{
+    color: aliceblue;
+    margin-left: 500px;
+}
+label{
+    color: aliceblue;
+}
+.contactar{
+    color: black;
+    width: 600px;
+    padding: 0 15px;
+    float: right;
+}
+.informacion{
+    color: aliceblue;
+}
+h2{
+    margin-left: 750px;
+    color: aliceblue;
+}
+.datos{
+    color: aliceblue;
+    width: 1000px;
+}
+.nombre{
+    color: aliceblue;
+    margin-left: 500px;
+}
+.Estudios{
+    color: aliceblue;
+}
+.disponibilidad{
+    margin-left: 700px;
+}
+footer{
+color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.fotos{
+    
+    width: 150px;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+}
+h6{
+    margin-left: 500px;
+    color: aliceblue;
+}
